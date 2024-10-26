@@ -14,8 +14,6 @@ tags:
 ---
 ---
 Lire : confiance & leadership de Ali Armand
-
----
 *TIP* : regarder notre propre doc d'un projet précédent.
 *TIP* : Ne pas oublier l'argument d'avancement de carrière pour motiver les acteurs d'un projet/changement.
 *TIP* : s'imprégner de différents métiers pour en apprendre le vocabulaire.
