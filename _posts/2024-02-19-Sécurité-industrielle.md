@@ -7,7 +7,7 @@ tags: [management, pensée, ledoux]
 
 C'est l'OT : Souvent désignées par le sigle OT (pour Operational Technology), elles concernent les systèmes spécialisés utilisés pour la fabrication, la distribution d'énergie, les services médicaux, la gestion des bâtiments et d'autres secteurs.
 
-![secu](https://imgur.com/gIKpRUL)
+![secu](https://i.imgur.com/gIKpRUL.png)
 
 ## En quoi consiste l'industrie 4.0 ?
 
