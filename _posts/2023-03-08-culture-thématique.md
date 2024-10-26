@@ -1,0 +1,73 @@
+---
+title: Culture thématique et préparation au grand oral
+date: 2022-10-20 13:30:00 +0100
+categories: [cesi, cours, 1ère année, MICSI, grand oral]
+tags: [culture thématique, rosselle, grand oral, mind map générale]
+---
+
+- Thèmes :
+	- Environnement et SI
+	- Cybersécurité
+		-   Sécurité des réseaux
+			- Pare-feux
+			- VPN
+			- IDS/IPS
+			- Filtres de contenus
+			- Sécurité des réseaux sans fil
+		-   Sécurité des applications
+			- Gestion des accès
+			- Test de sécurité
+			- Cryptographie
+			- Pare-feux d'application
+		-   Sécurité des données
+			- Sauvegarde et restauration
+			- Gestion des droits
+			- Sécurité physique des données
+			- Chiffrement
+		-   Sécurité physique (datacenter)
+		-   Sécurité de l'information
+		-   Gestion des identités et des accès
+		-   Sécurité de la chaîne d'approvisionnement
+		-   Sécurité des infrastructures critiques (électricité, eau, gaz, hôpitaux)
+		-   Sécurité des appareils connectés
+			- Gestion des périphériques
+			- Sécurité des terminaux mobiles
+			- Sécurité des objets connectés
+		-   Veille
+			- Menaces : Malwares, Virus, Phishing, Hameçonnage, Attaques DDoS, Ingénierie sociale, Quantique
+			- Vulnérabilités : CVE
+		-   Gestion des incidents de sécurité
+			- Détection des incidents
+			- Analyse et réponse
+			- Plan de continuité d'activité
+		-   Ordinateur quantique
+		-   Analyse des risques
+			- ISO 27005
+			- Mehari, EBIOS
+			- Identification des risques
+			- Évaluation et priorisation
+			- Planification des mesures de sécurité
+		-   Conformité réglementaire/normative
+			- ISO 27001
+			- RGPD
+			- NIS
+		-  Management
+			- Métiers de la cybersécurité
+				- RSSI
+				- DPO
+			-   Formation et sensibilisation
+				- Formation des employés
+				- Communication sur la sécurité
+				- Simulation de phishing
+		-   Agences de cybersécurité
+			- ANSSI
+	- Cloud et virtualisation
+	- Big data
+	- Développement
+	- Mobilité
+	- Management et stratégie
+	- Intelligence artificielle
+	- Blockchain
+	- Optimisation SI
+
+
