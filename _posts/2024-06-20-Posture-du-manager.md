@@ -1,4 +1,8 @@
-
+---
+title: Posture du manager
+date: 2024-4-20 13:30:00 +0100
+categories: [cesi, cours, 1ère année, MICSI, grand oral]
+tags: [culture thématique, rosselle, grand oral, mind map générale]
 ---
 SAVS : Sécurité Amour Valorisation Sens
 ### 1ere règle du management : tout le monde est intelligent.
