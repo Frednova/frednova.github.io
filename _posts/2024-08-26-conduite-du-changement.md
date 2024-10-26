@@ -1,7 +1,8 @@
 ---
 title: Conduite du changement
 date: 26/08/2024
-
+categories: [cesi, cours, 1ère année]
+tags: [management, changement, garcia]
 ---
 Lire : confiance & leadership de Ali Armand
 
