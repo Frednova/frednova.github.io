@@ -12,14 +12,14 @@ Les clauses principales (4 à 10) de la 27001 concernent typiquement la gouverna
 Urbanisation : organisation des processus.
 Infra : organisation des systèmes.
 
-![[Pasted image 20240529104037.png]]
+![Pasted image 20240529104037.png](https://i.imgur.com/nuZ1ZfU.png)
 
 La stratégie doit être communiquée aux salariés. Une organisation ne peut pas fonctionner à terme si ce n'est pas le cas. C'est aux managers et aux n+1 en général de communiquer cette stratégie.
 
 ## SDSI
 SDSI : Schéma Directeur du Système Information = IT Master Plan
 
-![[Pasted image 20240529110041.png]]
+![Pasted image 20240529110041.png](https://i.imgur.com/VWagrhS.png)
 
 La direction générale doit être sponsor permanent du SI. Le métier doit être un interlocuteur constant, c'est lui le client final de notre démarche ! **Le SDSI est l'équivalent du programme des candidats à la présidentielle**.
 ![[Pasted image 20240529111513.png]]
