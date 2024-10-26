@@ -1,5 +1,5 @@
 ---
-title: Pensée critique
+title: Sécurité industrielle
 date: 2022-10-17 8:30:00 +0100
 categories: [cesi, cours, 1ère année]
 tags: [management, pensée, ledoux]
