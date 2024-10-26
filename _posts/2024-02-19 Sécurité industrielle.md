@@ -1,4 +1,11 @@
 
+---
+title: Sécurité industrielle
+date: 2024-4-20 13:30:00 +0100
+categories: [cesi, cours, 1ère année, MICSI, grand oral]
+tags: [culture thématique, rosselle, grand oral, mind map générale]
+---
+
 C'est l'OT : Souvent désignées par le sigle OT (pour Operational Technology), elles concernent les systèmes spécialisés utilisés pour la fabrication, la distribution d'énergie, les services médicaux, la gestion des bâtiments et d'autres secteurs.
 
 ![[Pasted image 20240219091905.png]]
